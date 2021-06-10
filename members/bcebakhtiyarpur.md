@@ -1,2 +1,3 @@
-UserName: @bcebakhtiyarpur
+UserName: bcebakhtiyarpur
+
 Interest: WEB, ANDROID, ML
