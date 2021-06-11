@@ -1,3 +1,3 @@
-UserName: https://github.com/Nitish-web-nik
+UserName: Nitish-web-nik
 
 Interest: Web Development, Cloud Computing, Ethical Hacking, Canva Designing
